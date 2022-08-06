@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  7 11:56:42 2021
-
-@author: Briana Santo
-"""
 
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
